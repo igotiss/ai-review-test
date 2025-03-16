@@ -1,2 +1,2 @@
-const date = new Date(); 
+const date = new Date(); // test
 return `hello world ${date}`;
