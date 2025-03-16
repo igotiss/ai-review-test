@@ -1,1 +1,2 @@
-return 'hello world';
+const date = new Date();
+return `hello world ${date}`;
